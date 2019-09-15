@@ -1,0 +1,6 @@
+name: BlackMuteALL
+version: 1.0.0
+author: BlackTeam
+main: BlackTeam\BlackMuteALL\Loader
+description: "Couper le chat global! Ce qui signifie que personne ne pourra discuter."
+api: [3.2.0]

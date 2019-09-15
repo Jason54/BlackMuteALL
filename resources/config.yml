@@ -1,0 +1,14 @@
+
+global-mute: true
+
+
+turned-on: "Chat Mute a ?t? activ?."
+turned-off: "Chat Mute a ?t? d?sactiv?."
+
+
+chat-error: "Vous ne pouvez pas discuter tant que le mode mute chat est activ?."
+
+
+aliases:
+- "gm"
+
